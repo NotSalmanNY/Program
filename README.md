@@ -1,4 +1,4 @@
 # Program
 Anomoly
 Theory
-Gatewaye Error
+Gatewaye 
