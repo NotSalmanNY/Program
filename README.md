@@ -1,4 +1,2 @@
 # Program
 Anomoly
-Theory
-Purpose
