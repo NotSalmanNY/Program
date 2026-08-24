@@ -2,6 +2,5 @@ Develope
 Recoupe
 Texture
 Theory
-Repurpose
-Jump
+
 
